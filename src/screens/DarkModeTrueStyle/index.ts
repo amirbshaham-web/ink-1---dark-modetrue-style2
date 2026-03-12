@@ -1,0 +1,1 @@
+export { DarkModeTrueStyle } from "./DarkModeTrueStyle";
